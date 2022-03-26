@@ -10,7 +10,8 @@
     "die": 0,
     "win": 0,
     "stranger": 0,
-    "luck": 0
+    "luck": 0,
+    "health": 0
   },
   {
     "ID": 2,
@@ -23,7 +24,8 @@
     "die": 0,
     "win": 0,
     "stranger": 0,
-    "luck": 1
+    "luck": 1,
+    "health": 50
   },
   {
     "ID": 3,
@@ -36,7 +38,8 @@
     "die": 0,
     "win": 0,
     "stranger": 1,
-    "luck": 0
+    "luck": 0,
+    "health": 0
   },
   {
     "ID": 4,
@@ -49,7 +52,8 @@
     "die": 0,
     "win": 0,
     "stranger": 0,
-    "luck": 0
+    "luck": 0,
+    "health": 0
   },
   {
     "ID": 5,
@@ -62,7 +66,8 @@
     "die": 0,
     "win": 0,
     "stranger": 1,
-    "luck": 1
+    "luck": 1,
+    "health": 50
   },
   {
     "ID": 6,
@@ -75,7 +80,8 @@
     "die": 0,
     "win": 0,
     "stranger": 0,
-    "luck": 1
+    "luck": 1,
+    "health": 50
   },
   {
     "ID": 7,
@@ -88,7 +94,8 @@
     "die": 0,
     "win": 0,
     "stranger": 0,
-    "luck": 1
+    "luck": 1,
+    "health": 50
   },
   {
     "ID": 8,
@@ -101,7 +108,8 @@
     "die": 1,
     "win": 0,
     "stranger": 0,
-    "luck": 0
+    "luck": 0,
+    "health": 0
   },
   {
     "ID": 9,
@@ -114,7 +122,8 @@
     "die": 0,
     "win": 0,
     "stranger": 0,
-    "luck": 0
+    "luck": 0,
+    "health": 0
   },
   {
     "ID": 10,
@@ -127,7 +136,8 @@
     "die": 0,
     "win": 0,
     "stranger": 1,
-    "luck": 1
+    "luck": 1,
+    "health": 50
   },
   {
     "ID": 11,
@@ -140,7 +150,8 @@
     "die": 0,
     "win": 0,
     "stranger": 0,
-    "luck": 1
+    "luck": 1,
+    "health": 50
   },
   {
     "ID": 12,
@@ -153,7 +164,8 @@
     "die": 0,
     "win": 0,
     "stranger": 0,
-    "luck": 0
+    "luck": 0,
+    "health": 0
   },
   {
     "ID": 13,
@@ -166,7 +178,8 @@
     "die": 0,
     "win": 0,
     "stranger": 1,
-    "luck": 1
+    "luck": 1,
+    "health": 50
   },
   {
     "ID": 14,
@@ -179,7 +192,8 @@
     "die": 0,
     "win": 0,
     "stranger": 0,
-    "luck": 1
+    "luck": 1,
+    "health": 50
   },
   {
     "ID": 15,
@@ -192,7 +206,8 @@
     "die": 0,
     "win": 0,
     "stranger": 0,
-    "luck": 0
+    "luck": 0,
+    "health": 0
   },
   {
     "ID": 16,
@@ -205,7 +220,8 @@
     "die": 0,
     "win": 0,
     "stranger": 1,
-    "luck": 0
+    "luck": 0,
+    "health": 0
   },
   {
     "ID": 17,
@@ -218,7 +234,8 @@
     "die": 0,
     "win": 0,
     "stranger": 0,
-    "luck": 1
+    "luck": 1,
+    "health": 50
   },
   {
     "ID": 18,
@@ -231,7 +248,8 @@
     "die": 0,
     "win": 0,
     "stranger": 1,
-    "luck": 1
+    "luck": 1,
+    "health": 50
   },
   {
     "ID": 19,
@@ -244,7 +262,8 @@
     "die": 0,
     "win": 1,
     "stranger": 0,
-    "luck": 0
+    "luck": 0,
+    "health": 0
   },
   {
     "ID": 20,
@@ -257,6 +276,7 @@
     "die": 0,
     "win": 0,
     "stranger": 0,
-    "luck": 1
+    "luck": 1,
+    "health": 50
   }
 ]
